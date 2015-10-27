@@ -1,0 +1,27 @@
+body{
+	background: #F1C484;
+	color: #C8C8C8
+}
+.page_header{
+	top {
+	display: block;
+    height: 10px;
+    padding-top: 20px;
+    line-height: 50px;
+    overflow: hidden;
+}
+.page_header_inner{
+	color: #E86E39;
+	background: #E86E39;
+	display: block;
+}
+#headimg{
+	height: 140px;
+	width: 100%;
+}
+.page_header > img{
+	padding-top:0px 
+}
+.nav_wrapper{
+	
+}
